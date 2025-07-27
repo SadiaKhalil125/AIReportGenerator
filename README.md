@@ -62,8 +62,8 @@ Generate comprehensive, professional research reports on any topic using OpenAI'
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd CursorAIRAGProject
+git clone https://github.com/SadiaKhalil125/AIReportGenerator.git
+cd AIReportGenerator
 ```
 
 ### 2. Backend Setup
@@ -291,7 +291,7 @@ Response includes:
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **OpenAI** for GPT models
 - **LangChain** for advanced AI workflows
