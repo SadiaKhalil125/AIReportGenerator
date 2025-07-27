@@ -1,5 +1,7 @@
 # 🚀 AI Report Generator with LangChain
 
+Frontend Preview: https://ai-report-generator-frontend.vercel.app/
+
 🤖 Advanced AI-Powered Research Report Generator using LangChain
 
 Generate comprehensive, professional research reports on any topic using OpenAI's GPT models with advanced LangChain features including memory, context-aware generation, and enhanced analysis.
